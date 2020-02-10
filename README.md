@@ -20,16 +20,38 @@ This application was written in the **[AutoHotkey](https://www.autohotkey.com/)<
 
 ### Preview
 
-<video>
-<source src="videos/MC_Chunk_Get_V1_Preview.mp4" type="video/mp4">
-</video>
+Quick video preview: [MCG on YouTube]()
+
+![ScreenShot](images/mc_chunk_get.png)
 
 ## Installation
 
 This is a portable application &amp; can be placed anywhere you put your portables.
+
+### Files
+
+#### Main
+
+[MC Chunk Get V1 32Bit [Compiled]]()
+
+[MC Chunk Get V1 64Bit [Compiled]]()
+
+[Release Page - All Files]()
+
+#### To Compile
+
+[Main .ahk file]()
 
 ### Notes
 
 <a name="note1">
 <sup>1: AutoHotkey - A full featured Windows scripting language with hotkey &amp; gui support &amp; focus on automation.</sup>
 </a>
+
+## License
+
+[License File](LICENSE)
+
+>This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. 
+
+>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
