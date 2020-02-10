@@ -40,7 +40,7 @@ This is a portable application &amp; can be placed anywhere you put your portabl
 
 #### To Compile
 
-[Main .ahk file]()
+[Main .ahk file](mc_chunk_get.compile.ahk)
 
 ### Notes
 
