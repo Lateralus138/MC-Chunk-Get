@@ -18,6 +18,12 @@ This application was written in the **[AutoHotkey](https://www.autohotkey.com/)<
 
     - You can compile this yourself with AHK's - Ahk2Exe.exe provided with the program.
 
+### Preview
+
+<video>
+<source src="videos/\MC_Chunk_Get_V1_Preview.mp4">
+</video>
+
 ## Installation
 
 This is a portable application &amp; can be placed anywhere you put your portables.
