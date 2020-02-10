@@ -21,7 +21,7 @@ This application was written in the **[AutoHotkey](https://www.autohotkey.com/)<
 ### Preview
 
 <video>
-<source src="videos/MC_Chunk_Get_V1_Preview.mp4">
+<source src="videos/MC_Chunk_Get_V1_Preview.mp4" type="video/mp4">
 </video>
 
 ## Installation
