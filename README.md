@@ -36,7 +36,9 @@ This is a portable application &amp; can be placed anywhere you put your portabl
 
 [MC Chunk Get V1 64Bit [Compiled]]()
 
-[Release Page - All Files]()
+[Release Page](https://lateralus138.github.io/MC-Chunk-Get)
+
+[All Files]()
 
 #### To Compile
 
