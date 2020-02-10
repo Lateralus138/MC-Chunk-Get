@@ -20,7 +20,7 @@ This application was written in the **[AutoHotkey](https://www.autohotkey.com/)<
 
 ### Preview
 
-Quick video preview: [MCG on YouTube]()
+Quick video preview: [MCG on YouTube](https://youtu.be/i3xKssy0QyM)
 
 ![ScreenShot](images/mc_chunk_get.png)
 
