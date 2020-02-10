@@ -2,7 +2,7 @@
 
 ![Badge 1](images/mc_chunk_badges_af.png) ![Badge 2](images/mc_chunk_badges_ag.png) ![Badge 3](images/mc_chunk_badges_as.png) ![Badge 4](images/mc_chunk_badges_gu.png) ![Badge 5](images/mc_chunk_badges_mu.png)
 
-Get coordinate boundaries of a chunk by providing any x, z coordinates inside of that chunk in Minecraft.
+Get coordinate boundaries of a chunk by providing any x, z coordinates inside of that chunk in **Minecraft**.
 
 ## Usage
 
@@ -32,13 +32,13 @@ This is a portable application &amp; can be placed anywhere you put your portabl
 
 #### Main
 
-[MC Chunk Get V1 32Bit [Compiled]]()
+[MC Chunk Get V1 32Bit [Compiled]](https://github.com/Lateralus138/MC-Chunk-Get/releases/download/1.2.9.20/mc_chunk_get_v1_32bit.exe)
 
-[MC Chunk Get V1 64Bit [Compiled]]()
+[MC Chunk Get V1 64Bit [Compiled]](https://github.com/Lateralus138/MC-Chunk-Get/releases/download/1.2.9.20/mc_chunk_get_v1_64bit.exe)
 
-[Release Page](https://lateralus138.github.io/MC-Chunk-Get)
+[Release - Git Page](https://lateralus138.github.io/MC-Chunk-Get)
 
-[All Files]()
+[Release - All Files](https://github.com/Lateralus138/MC-Chunk-Get/releases)
 
 #### To Compile
 
